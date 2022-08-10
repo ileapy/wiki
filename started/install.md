@@ -7,5 +7,5 @@ composer安装前请确保具备以下环境
 ## 安装命令
 
 ```shell
-$ composer require cfn/unionpay
+composer require cfn/unionpay:^1.0.8
 ```
