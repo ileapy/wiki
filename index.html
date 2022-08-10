@@ -9,6 +9,7 @@
     <meta name="description" content="UnionPay | 云闪付小程序非官方开发包，这可能是第一个支持composer导入的云闪付小程序后端SDK。"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
     <link rel="stylesheet" href="//cdn.bootcdn.net/ajax/libs/docsify/4.12.2/themes/vue.css"/>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
     <!--<link rel="stylesheet" href="//unpkg.zhimg.com/mermaid/dist/mermaid.min.css">-->
 </head>
 <body>
@@ -22,7 +23,7 @@
 
     window.$docsify = {
         name: '云闪付小程序SDK',
-        repo: 'https://github.com/ileapy/EasyUnionPayApplet',
+        repo: 'https://github.com/ileapy/unionpay',
         loadSidebar: true,
         loadNavbar: true,
         subMaxLevel: 2,
@@ -96,6 +97,20 @@
         var s = document.getElementsByTagName("script")[0];
         s.parentNode.insertBefore(hm, s);
     })();
+</script>
+
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+<script>
+    const gitalk = new Gitalk({
+        clientID: 'a4f06561d570bcfc9a5e',
+        clientSecret: '210617383e9a51de578e7b0ed9ea5e870bab4d7e',
+        repo: 'unionpay',
+        owner: 'ileapy',
+        admin: ['ileapy'],
+        // facebook-like distraction free mode
+        distractionFreeMode: false
+    })
 </script>
 </body>
 </html>
