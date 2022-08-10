@@ -3,6 +3,12 @@
 <code>UnionPay</code> 是一个开源的 银联云闪付小程序 非官方 SDK。<br/>
 <code>UnionPay</code>这可能是第一个支持composer导入的云闪付小程序开发包，小程序后端相关接口与支付相关接口已全部更新完毕。
 
+## 如何安装
+
+```shell
+$ composer require cfn/unionpay
+```
+
 ## 使用环境
 
 - <code>php >= 5.6</code>
