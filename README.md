@@ -10,7 +10,7 @@
 ## 如何安装
 
 ```shell
-$ composer require cfn/unionpay
+composer require cfn/unionpay:^1.0.8
 ```
 
 ##  接口方法🌈
