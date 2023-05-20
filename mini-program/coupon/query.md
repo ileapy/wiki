@@ -2,7 +2,7 @@
 
 赠送优惠券结果查询。
 
-> 阅读本文档之前请仔细阅读[云闪付小程序官方文档 - 赠送优惠券结果查询](https://opentools.95516.com/applet/#/docs/develop/api-backend?id=_02040809)
+> 阅读本文档之前请仔细阅读[云闪付小程序官方文档 - 赠送优惠券结果查询](https://opentools.95516.com/applet/#/docs/develop/api-backend/marketing?id=_02040809)
 
 ## 接口调用
 
