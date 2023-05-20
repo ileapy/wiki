@@ -2,7 +2,7 @@
 
 查询用户与接入方的签约关系状态，5分钟缓存机制，为保证查询结果准确性，建议间隔5分钟以上再进行状态查询。
 
-> 阅读本文档之前请仔细阅读[云闪付小程序官方文档 - 签约关系查询](https://opentools.95516.com/applet/#/docs/develop/api-backend?id=_02040504)
+> 阅读本文档之前请仔细阅读[云闪付小程序官方文档 - 签约关系查询](https://opentools.95516.com/applet/#/docs/develop/api-backend/payoff?id=_02040504)
 
 ## 接口调用
 
