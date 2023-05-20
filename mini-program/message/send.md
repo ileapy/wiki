@@ -2,7 +2,7 @@
 
 通过小程序运营平台配置小程序消息模板，通过该接口给云闪付用户推送小程序消息, 例如服务通知、动账通知。
 
-> 阅读本文档之前请仔细阅读[云闪付小程序官方文档 - 小程序模板消息](https://opentools.95516.com/applet/#/docs/develop/api-backend?id=_02040601)
+> 阅读本文档之前请仔细阅读[云闪付小程序官方文档 - 小程序模板消息](https://opentools.95516.com/applet/#/docs/develop/api-backend/information?id=_02040601)
 
 ## 接口调用
 
