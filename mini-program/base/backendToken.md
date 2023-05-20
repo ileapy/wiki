@@ -3,7 +3,7 @@
 <code>backendToken</code> 是应用的服务端 API 的访问令牌，控制对服务端 API 的访问。<code>backendToken</code> 的有效期通过接口返回，目前设置为 7200 秒，
 接入方获取相应基础访问令牌后，需放入缓存，定期更新。
 
-> 阅读本文档之前请仔细阅读[云闪付小程序官方文档 - 获取应用访问令牌backendToken](https://opentools.95516.com/applet/#/docs/develop/api-backend?id=_02040201)
+> 阅读本文档之前请仔细阅读[云闪付小程序官方文档 - 获取应用访问令牌backendToken](https://opentools.95516.com/applet/#/docs/develop/api-backend/token?id=_02040201)
 
 ## 获取backendToken
 
