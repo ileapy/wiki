@@ -2,7 +2,7 @@
 
 赠送优惠券接口，根据营销活动给云闪付用户赠送优惠券。
 
-> 阅读本文档之前请仔细阅读[云闪付小程序官方文档 - 赠送优惠券](https://opentools.95516.com/applet/#/docs/develop/api-backend?id=_02040808)
+> 阅读本文档之前请仔细阅读[云闪付小程序官方文档 - 赠送优惠券](https://opentools.95516.com/applet/#/docs/develop/api-backend/marketing?id=_02040808)
 
 ## 接口调用
 
