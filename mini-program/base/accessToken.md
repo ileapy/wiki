@@ -2,7 +2,7 @@
 
 获取用户授权访问令牌 <code>accessToken</code> , 经过用户授权完成后，可通过授权访问令牌调用对应权限可访问的服务端 API 。
 
-> 阅读本文档之前请仔细阅读[云闪付小程序官方文档 - 获取授权访问令牌accessToken](https://opentools.95516.com/applet/#/docs/develop/api-backend?id=_02040202)
+> 阅读本文档之前请仔细阅读[云闪付小程序官方文档 - 获取授权访问令牌accessToken](https://opentools.95516.com/applet/#/docs/develop/api-backend/token?id=_02040202)
 
 ## 获取accessToken
 
