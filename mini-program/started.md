@@ -4,11 +4,11 @@
 
 ## 获取小程序参数
 
-小程序参数的获取方法请参考：[小程序接入指南](https://opentools.95516.com/applet/#/docs/introduce/handbook)
+小程序参数的获取方法请参考：[小程序接入指南](https://opentools.95516.com/applet/#/docs/introduce/handbook/pre_production)
 
 ## 配置小程序参数
 
-一般来说以下配置就足够使用，所有配置请参考[更多配置](https://opentools.95516.com/applet/#/docs/introduce/handbook)
+一般来说以下配置就足够使用，所有配置请参考[更多配置](https://opentools.95516.com/applet/#/docs/develop/getstart/getstart)
 
 ```php
 use unionpay\Factory;
