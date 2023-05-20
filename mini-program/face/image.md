@@ -1,6 +1,6 @@
 # 获取人脸识别照片
 
-> 阅读本文档之前请仔细阅读[云闪付小程序官方文档 - 获取人脸识别照片](https://opentools.95516.com/applet/#/docs/develop/api-backend?id=_02040901)
+> 阅读本文档之前请仔细阅读[云闪付小程序官方文档 - 获取人脸识别照片](https://opentools.95516.com/applet/#/docs/develop/api-backend/face?id=_02040901)
 
 ## 接口调用
 
