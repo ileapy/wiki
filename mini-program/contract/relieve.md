@@ -2,7 +2,7 @@
 
 无感支付解约，使用接入方签约时传入的”签约协议号”，通过此接口可发起无感支付解约。
 
-> 阅读本文档之前请仔细阅读[云闪付小程序官方文档 - 申请解约](https://opentools.95516.com/applet/#/docs/develop/api-backend?id=_02040503)
+> 阅读本文档之前请仔细阅读[云闪付小程序官方文档 - 申请解约](https://opentools.95516.com/applet/#/docs/develop/api-backend/payoff?id=_02040503)
 
 ## 接口调用
 
