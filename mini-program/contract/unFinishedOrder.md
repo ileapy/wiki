@@ -2,7 +2,7 @@
 
 查询已签约用户在云闪付侧是否存在业务未完成的订单。
 
-> 阅读本文档之前请仔细阅读[云闪付小程序官方文档 - 未完成订单查询](https://opentools.95516.com/applet/#/docs/develop/api-backend?id=_02040505)
+> 阅读本文档之前请仔细阅读[云闪付小程序官方文档 - 未完成订单查询](https://opentools.95516.com/applet/#/docs/develop/api-backend/payoff?id=_02040505)
 
 ## 接口调用
 
